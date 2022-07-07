@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://youtu.be/ZutNZGBzguQ" rel="nofollow">
-  <img src="/udkodr/2-Layout-Switcher-Ionic-Vue/raw/master/src/images/2-LayoutSwitcher.jpg" style="max-width: 100%;">
+  <img src="https://github.com/UDKodr/2-Layout-Switcher-Ionic-Vue/blob/main/src/Images/2-LayoutSwitcher.jpg?raw=true" style="max-width: 100%;">
   </br>Watch the Tutorial Video</a>
   </div>
   
